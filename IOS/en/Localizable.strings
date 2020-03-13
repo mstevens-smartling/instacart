@@ -1,0 +1,15 @@
+/* Welcome */
+"title_activity_forgot_password"= "Forgot password";
+"title_activity_create_account"= "Don't have an account?";
+"sign_up"= "Sign up";
+"welcome"= "Welcome back";
+"welcome_desc"= "Log in with your email and password";
+"email_address"= "Email address";
+"enter_password"= "Password (min 6 characters)";
+"log_in"= "Log in";
+"create_account"= "Create an account to start shopping";
+"email_enter"= "Email";
+"already_account"= "Already have an account?";
+"delivery"="Groceries delivered in as little as 1 hour";
+"continue"="Continue";
+"free_delivery"="FREE delivery for 14 days with Express*"
