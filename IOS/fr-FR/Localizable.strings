@@ -1,0 +1,15 @@
+/* Welcome */
+"title_activity_forgot_password"= "Mot de passe oubliéMot de passe";
+"title_activity_create_account"= "Vous n'avez pas de compte?";
+"sign_up"= "S'inscrire";
+"welcome"= "Nous saluons le retour";
+"welcome_desc"= "Connectez-vous avec votre email et votre Mot de passe";
+"email_address"= "Adresse électronique";
+"enter_password"= "Mot de passe (min 6 caractères) Mot de passe";
+"log_in"= "S'identifier";
+"create_account"= "Créez un compte pour commencer vos achats";
+"email_enter"= "Email";
+"already_account"= "Vous avez déjà un compte?";
+"delivery"="Épicerie livrée en 1 heure seulement";
+"continue"="Continuer";
+"free_delivery"="FREE delivery for 14 days with Express*"
